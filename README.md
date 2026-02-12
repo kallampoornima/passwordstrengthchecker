@@ -1,6 +1,5 @@
-# passwordstrengthchecker
 # Password Strength Checker
-
+Hosted at: https://kallampoornima.github.io/passwordstrengthchecker/
 A simple password strength checker that shows real-time feedback as you type.
 
 ## Features
